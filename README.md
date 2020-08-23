@@ -1,5 +1,5 @@
 # Sequence Monitoring Service for the GUS-OS Suite
-The idea is to synchronize the task of generating sequenznumbers.<br>
+The idea is to synchronize the task of generating sequence-numbers.<br>
 At this state as a proof of concept the current state of this application only allows sequence-numbers for FormatFunc.
 
 # Setup
